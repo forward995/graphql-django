@@ -65,7 +65,7 @@ lxml==4.2.5
 MarkupSafe==1.1.0
 matplotlib==3.0.3
 mccabe==0.6.1
-mod-wsgi==4.5.24
+mod-wsgi==4.9.3
 mysql-connector-python==8.0.15
 numpy==1.16.2
 oauth2client==3.0.0
