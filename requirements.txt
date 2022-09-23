@@ -75,7 +75,7 @@ opencv-python==4.0.0.21
 parsel==1.5.1
 Pillow==5.3.0
 pipenv==2018.11.26
-protobuf==3.7.0
+protobuf==3.18.3
 py-vapid==1.4.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.4
